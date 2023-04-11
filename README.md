@@ -1,4 +1,4 @@
-# github_prac
+# github 실습
 Practice Repo.
 
-Do What you want :)
+Monkey.d.rupi :)
