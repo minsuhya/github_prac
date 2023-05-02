@@ -4,4 +4,4 @@ Practice Repo.
 
 Monkey.d.rupi :)
 
-[[SW공학|sw/sw.d]]
+[[SW공학|sw/sw.md]]
